@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "defaultMode": "default",
+    "disableBypassPermissionsMode": "disable",
+    "deny": [
+      "Edit(/raw/**)",
+      "WebFetch",
+      "WebSearch",
+      "Bash(rm *)",
+      "Bash(rmdir *)",
+      "Bash(mv *)",
+      "Bash(git push *)",
+      "Bash(git clean *)",
+      "Bash(git reset *)",
+      "Bash(git checkout *)",
+      "PowerShell(Remove-Item *)",
+      "PowerShell(Move-Item *)"
+    ]
+  }
+}
