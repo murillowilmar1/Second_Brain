@@ -1,7 +1,7 @@
 ---
 title: NeoPay Technologies, S.L.
 type: entity
-sources: [raw/01_resumen_financiero_2024.pdf]
+sources: [raw/01_resumen_financiero_2024.pdf, raw/02_informe_actualizado_q2_2025.pdf]
 updated: 2026-10-17
 confidence: high
 ---
@@ -16,6 +16,14 @@ confidence: high
 - Su informe financiero anual del ejercicio fiscal 2024 fue auditado por Deloitte Auditores. [archivo: raw/01_resumen_financiero_2024.pdf, pág. 1, encabezado] → [[deloitte-auditores]]
 - Las cinco métricas auditadas del cierre del ejercicio 2024 (Facturación Neta (Ingresos), EBITDA, Beneficio Neto, Deuda Bancaria Consolidada y Posición de Caja y Equivalentes) están en [[metricas-financieras-neopay]]. [archivo: raw/01_resumen_financiero_2024.pdf, pág. 1, §2]
 - Resumen de la fuente: [[resumen-financiero-2024]].
+
+## Adquisición y due diligence
+- NeoPay Technologies es el objetivo ("Adquisición de NeoPay Technologies") de un informe de due diligence financiera fechado el 10 de junio de 2025. [archivo: raw/02_informe_actualizado_q2_2025.pdf, pág. 1, encabezado] → [[fintech-innova-capital-partners]]
+- Ese informe se menciona una "auditoría preliminar de adquisición iniciada en mayo de 2025". [archivo: raw/02_informe_actualizado_q2_2025.pdf, pág. 1, §1]
+- Resumen de la fuente: [[informe-actualizado-q2-2025]].
+
+## Contradicciones
+- Las cifras reexpresadas por la fuente 02 difieren de las de la fuente 01 (EBITDA 2024 directamente; deuda y caja con otra fecha de corte). Detalle con citas en [[metricas-financieras-neopay]].
 
 ## No consta en la fuente
 - Fecha de fundación, domicilio, estructura accionarial, directivos y número de empleados.

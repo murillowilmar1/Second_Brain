@@ -1,7 +1,7 @@
 ---
 title: Resumen financiero 2024 (NeoPay Technologies)
 type: source
-sources: [raw/01_resumen_financiero_2024.pdf]
+sources: [raw/01_resumen_financiero_2024.pdf, raw/02_informe_actualizado_q2_2025.pdf]
 updated: 2026-10-17
 confidence: high
 ---
@@ -38,6 +38,9 @@ Cita de toda la tabla: [archivo: raw/01_resumen_financiero_2024.pdf, pág. 1, §
 
 ## Ubicación de la evidencia
 El PDF tiene una sola página, por lo que la ubicación de la evidencia no es ambigua. El documento no tiene numeración impresa; "pág. 1" es el número de página del archivo. Las citas añaden además la sección numerada (§1 a §3). Por eso la confianza es `high`.
+
+## Contradicciones
+- EBITDA: esta fuente indica 2.400.000 € al cierre del ejercicio 2024 [archivo: raw/01_resumen_financiero_2024.pdf, pág. 1, §2]; [[informe-actualizado-q2-2025]] indica "EBITDA Real 2024" de 1.100.000 € [archivo: raw/02_informe_actualizado_q2_2025.pdf, pág. 1, §1]. No se elige ninguna. Detalle (incluidas deuda y caja) en [[metricas-financieras-neopay]].
 
 ## No consta en la fuente
 - Valores absolutos de 2023: la fuente solo da variaciones porcentuales vs 2023.
